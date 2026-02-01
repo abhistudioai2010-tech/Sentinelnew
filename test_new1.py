@@ -1,0 +1,1 @@
+GEMINI="AIzaSyDRidyeJPHfra5wkSUZyBmbh3f2J0etiW0"
